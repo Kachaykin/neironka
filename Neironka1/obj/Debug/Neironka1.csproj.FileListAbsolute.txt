@@ -1,0 +1,8 @@
+D:\PROGI\Visual studia\Neironka1\bin\Debug\Neironka1.exe.config
+D:\PROGI\Visual studia\Neironka1\bin\Debug\Neironka1.exe
+D:\PROGI\Visual studia\Neironka1\bin\Debug\Neironka1.pdb
+D:\PROGI\Visual studia\Neironka1\obj\Debug\Neironka1.csproj.AssemblyReference.cache
+D:\PROGI\Visual studia\Neironka1\obj\Debug\Neironka1.csproj.SuggestedBindingRedirects.cache
+D:\PROGI\Visual studia\Neironka1\obj\Debug\Neironka1.csproj.CoreCompileInputs.cache
+D:\PROGI\Visual studia\Neironka1\obj\Debug\Neironka1.exe
+D:\PROGI\Visual studia\Neironka1\obj\Debug\Neironka1.pdb
